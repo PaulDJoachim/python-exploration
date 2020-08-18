@@ -19,3 +19,6 @@ Functions in Python are designated with the 'def' keyword followed by the name o
 
 ### Loops
 In Python, for loops and while loops are started with the "for" and while" keywords. The first line serves as the conditional statement and the subsequent indented lines will be the body of the loop. Multiple conditional code blocks can be designated with the "elif" keyword. The "break" and "return" keywords will end the loop.
+
+### Classes
+Classes allow the program the construct new objects as needed. The "class" keyword designates a class. With the built-in __init__() function we tell the class how arguments should be used to create new objects. Classes can also contain functions (methods) that allow us to make changes to the object data when called.  
