@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5B0242",
+    "titleBar.activeBackground": "#80025D",
+    "titleBar.activeForeground": "#FFFAFD"
+  },
+  "python.pythonPath": "C:\\Python\\Python37\\python.exe"
+}
